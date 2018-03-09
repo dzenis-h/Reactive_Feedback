@@ -1,10 +1,10 @@
 ___
 > # Reactive_Feedback :email:
 > > ### Fullstack: 
-> > * MongoDB
-> > * Express
-> > * React
-> > * NodeJS
+> > * _MongoDB_
+> > * _Express_
+> > * _React_
+> > * _NodeJS_
 > <img src="https://github.com/BiggaHD/Reactive_Feedback/blob/master/MERN_stack.JPG" height="450" width="450">
 ___
 
