@@ -1,5 +1,5 @@
 ___
-> # **Reactive Feedback :email:
+> # Reactive Feedback :email:
 > > ### _Fullstack:_
 > > * _MongoDB_
 > > * _Express_
