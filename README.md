@@ -1,6 +1,6 @@
 ___
-> # Reactive_Feedback :email:
-> > ### Fullstack: 
+> # Reactive Feedback :email:
+> > ### _Fullstack: _**
 > > * _MongoDB_
 > > * _Express_
 > > * _React_
